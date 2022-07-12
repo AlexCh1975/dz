@@ -97,3 +97,6 @@ _**git commit -m "commit message"**_.
 ### Git branch
 
 ### Git merge
+
+Команда git merge выполняет слияние отдельных направлений разработки, созданных с помощью команды git branch , в единую ветку.
+
