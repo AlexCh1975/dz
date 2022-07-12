@@ -73,6 +73,7 @@ _**git commit -m "commit message"**_.
 ![](/img/command_log.PNG)
 
 **got log --graph** - `опция --graph добавляет ASCII-граф, показывающий историю ветвлений и слияний.`
+![](/img/command_log_graph.PNG)
 
 ### Git diff
 
