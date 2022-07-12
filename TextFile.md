@@ -93,3 +93,7 @@ _**git commit -m "commit message"**_.
 С помощью этой команды можно определить версию **Git**
 
 ![](/img/command_version.PNG)
+
+### Git branch
+
+### Git merge
