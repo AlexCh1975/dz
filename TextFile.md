@@ -101,4 +101,7 @@ _**git commit -m "commit message"**_.
 **git branch**
 ![](/img/command_branch.PNG)
 
+**git branch command_log** - *`создали ветку command_log`*
+![](/img/command_branch_creation.PNG)
+
 ### Git merge
