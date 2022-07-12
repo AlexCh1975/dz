@@ -96,4 +96,9 @@ _**git commit -m "commit message"**_.
 
 ### Git branch
 
+Это своего рода "менеджер веток". Она умеет перечислять ваши  `git branch`, создавать новые, удалять `git branch <branch_name>` и переименовывать их.
+
+**git branch**
+![](/img/command_branch.PNG)
+
 ### Git merge
