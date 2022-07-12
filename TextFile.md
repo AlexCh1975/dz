@@ -103,3 +103,4 @@ _**git commit -m "commit message"**_.
 ![](/img/command_merge.png)
 
 Практически все использования имеют вид **git merge  _`<branch>`_** с указанием единственной ветки для слияния.
+![](/img/command_merge_1.PNG)
