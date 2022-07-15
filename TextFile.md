@@ -135,7 +135,7 @@ _**git commit -m "commit message"**_.
 
 ### Git pull
 
-Эта команда
+Эта команда позволяет скачать 
 
 ### Git remote add origin
 
