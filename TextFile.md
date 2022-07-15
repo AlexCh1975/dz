@@ -135,6 +135,8 @@ _**git commit -m "commit message"**_.
 
 ### Git pull
 
+Эта команда
+
 ### Git remote add origin
 
 ### Git pull request
