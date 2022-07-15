@@ -141,6 +141,13 @@ _**git commit -m "commit message"**_.
 
 ### Git push
 
+Отправить свою версию репозитория во
+внешний репозиторий поможет команда **git
+push**. При первом её использовании нужна
+авторизация на внешнем репозитории.
+
+![](/img/command_push.PNG)
+
 ### Git pull
 
 ### Git remote add origin
