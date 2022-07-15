@@ -139,8 +139,8 @@ _**git commit -m "commit message"**_.
 
 ![](/img/command_remote.PNG)
 
-git remote add origin https://github.com/AlexCh1975/dz_test.git - связывает локальный репозиторий с удоленным.
-git branch -M main - говорит как буден называться главная ветка.
-git push -u origin main - добавляет локальный репозиторий на GitHub.
+* **git remote add origin https://github.com/AlexCh1975/dz_test.git** - связывает локальный репозиторий с удоленным.
+* **git branch -M main** - говорит как буден называться главная ветка.
+* **git push -u origin main** - добавляет локальный репозиторий на GitHub.
 
 ### Git pull request
