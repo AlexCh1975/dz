@@ -138,6 +138,8 @@ _**git commit -m "commit message"**_.
 push**. При первом её использовании нужна
 авторизация на внешнем репозитории.
 
+![](/img/command_push.PNG)
+
 ### Git pull
 
 ### Git remote add origin
