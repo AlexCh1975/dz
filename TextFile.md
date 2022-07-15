@@ -137,4 +137,6 @@ _**git commit -m "commit message"**_.
 
 ### Git remote add origin
 
+![](/img/command_remote.PNG)
+
 ### Git pull request
