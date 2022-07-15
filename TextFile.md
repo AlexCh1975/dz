@@ -136,7 +136,9 @@ _**git commit -m "commit message"**_.
 ### Git pull
 
 Эта команда позволяет скачать все из текущего репозитория и автоматически
-сделать merge с нашей версией. 
+сделать _**merge**_ с нашей версией. 
+
+![](/img/command_pull.PNG)
 
 ### Git remote add origin
 
