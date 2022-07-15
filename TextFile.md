@@ -128,3 +128,13 @@ _**git commit -m "commit message"**_.
 
 Практически все использования имеют вид **git merge  _`<branch>`_** с указанием единственной ветки для слияния.
 ![](/img/command_merge_1.PNG)
+
+### Git clone
+
+### Git push
+
+### Git pull
+
+### Git remote add origin
+
+### Git pull request
