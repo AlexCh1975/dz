@@ -137,6 +137,8 @@ _**git commit -m "commit message"**_.
 все ветки на локальном компьютере и в
 удаленном репозитории.
 
+![](/img/command_clone.PNG)
+
 ### Git push
 
 ### Git pull
