@@ -176,8 +176,11 @@ push**. При первом её использовании нужна
 
 #### Как сделать pull request
 * Делаем   (ответвление) репозитория **fork**
+![command_fork](/img/command_fork.PNG)
 * Делаем **git clone**   версии репозитория СВОЕЙ
+![command_clone_pull_request](/img/command_clone_pull_reguest.PNG)
 * Создаем новую **ветку** и в НЕЕ вносим свои изменения
+![command_branch_pull_request](/img/command_branch_pull_request.PNG)
 * Фиксируем изменения (делаем коммиты)
 * Отправляем свою версию в свой **GitHub**
 * На сайте **GitHub** нажимаем кнопку **pull request**
