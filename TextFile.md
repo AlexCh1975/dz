@@ -183,4 +183,5 @@ push**. При первом её использовании нужна
 ![command_branch_pull_request](/img/command_branch_pull_request.PNG)
 * Фиксируем изменения (делаем коммиты)
 * Отправляем свою версию в свой **GitHub**
+![command_push_pull_request](/img/command_push_pull_request.PNG)
 * На сайте **GitHub** нажимаем кнопку **pull request**
